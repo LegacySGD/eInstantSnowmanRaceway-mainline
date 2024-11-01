@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="en_NZ">
+<phrase key="softwareId" value="Software ID"/>
+<phrase key="transactionId" value="Transaction ID"/>
+<phrase key="totalWins" value="Total Wins"/>
+<phrase key="totalWager" value="Total Wager"/>
+<phrase key="bingoCardNumbers" value="Bingo Card Numbers"/>
+<phrase key="drawnNumbers" value="Drawn Numbers"/>
+<phrase key="prizePatterns" value="Prize Patterns"/>
+<phrase key="youMatched" value="You Matched"/>
+<phrase key="freeSpace" value="FREE"/>
+<phrase key="winsPerPattern" value="Wins Per Pattern"/>
+<phrase key="snowmanValue" value="Snowman Value"/>
+<phrase key="snowmanProgress" value="Snowman Progress"/>
+<phrase key="snowmanValueMultiplier" value="Snowman Value Multiplier"/>
+<phrase key="noValueSnowman" value="No Value Snowman"/>
+<phrase key="na" value="N/A"/>
+<phrase key="win" value="Win"/>
+</translation>

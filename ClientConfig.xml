@@ -1,0 +1,5 @@
+<ClientConfig>
+	<GameClient name="Snowman Raceway WLA" clientCode="mobile" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="SnowmanRaceway" enableFreeSpin="N" clientversion="1.0" gameId="300-2039-0" />
+	<GameClient name="Snowman Raceway WLA" clientCode="tablet" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="SnowmanRaceway" enableFreeSpin="N" clientversion="1.0" gameId="300-2039-0" />
+	<GameClient name="Snowman Raceway WLA" clientCode="desktop" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="SnowmanRaceway" enableFreeSpin="N" clientversion="1.0" gameId="300-2039-0" />
+</ClientConfig>

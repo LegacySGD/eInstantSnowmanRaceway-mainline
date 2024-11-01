@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="de_BE">
+<phrase key="softwareId" value="Software-ID"/>
+<phrase key="transactionId" value="Transaktions-ID"/>
+<phrase key="totalWins" value="Gesamtgewinne"/>
+<phrase key="totalWager" value="Gesamteinsatz"/>
+<phrase key="bingoCardNumbers" value="Bingokartenzahlen"/>
+<phrase key="drawnNumbers" value="Gezogene Zahlen"/>
+<phrase key="prizePatterns" value="Gewinnmuster"/>
+<phrase key="youMatched" value="Ihre Übereinstimmung"/>
+<phrase key="freeSpace" value="GRATIS"/>
+<phrase key="winsPerPattern" value="Gewinne pro Muster"/>
+<phrase key="snowmanValue" value="Schneemann Wert"/>
+<phrase key="snowmanProgress" value="Schneemann Fortschritt"/>
+<phrase key="snowmanValueMultiplier" value="Schneemann Wert Multiplikator"/>
+<phrase key="noValueSnowman" value="Schneemann ohne Wert"/>
+<phrase key="na" value="N/A"/>
+<phrase key="win" value="Gewinne"/>
+</translation>

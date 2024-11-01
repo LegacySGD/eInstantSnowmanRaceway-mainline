@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="nl_BE">
+<phrase key="softwareId" value="Software-ID"/>
+<phrase key="transactionId" value="Transactie-ID"/>
+<phrase key="totalWins" value="Totale winst"/>
+<phrase key="totalWager" value="Totale inzet"/>
+<phrase key="bingoCardNumbers" value="Getallen bingokaart"/>
+<phrase key="drawnNumbers" value="Getrokken getallen"/>
+<phrase key="prizePatterns" value="Prijspatronen"/>
+<phrase key="youMatched" value="U hebt een combinatie gevonden van"/>
+<phrase key="freeSpace" value="GRATIS"/>
+<phrase key="winsPerPattern" value="Prijzen per patroon"/>
+<phrase key="snowmanValue" value="Waarde Snowman"/>
+<phrase key="snowmanProgress" value="Voortgang Snowman"/>
+<phrase key="snowmanValueMultiplier" value="Waardemultiplier Snowman"/>
+<phrase key="noValueSnowman" value="Snowman zonder waarde"/>
+<phrase key="na" value="N.v.t."/>
+<phrase key="win" value="Winst"/>
+</translation>

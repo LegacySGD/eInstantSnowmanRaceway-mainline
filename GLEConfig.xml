@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <family code="2039" desc="Lottery Game" studio="interactive" organizationName="Interactive">
+        <!-- -  For spot supported games: spots are colon separated string like 1:2:3:4:5.Otherwise left blank -->
+        <game name="Snowman Raceway WLA" version="1.0.5" gameengineversion="2" gamelogicversion="1.0"
+              number="0"
+              jackpotid=""
+              gametype="L"
+              loadprevstate="N"
+              numberGenerator="RNG"
+              betMultipliers="50,100,200,300,500,1000"
+              spots=""
+              productId="1"
+              gamegroup="eGames"
+              languages="de_BE,en,en_US,en_NZ,fr_BE,nl_BE"
+              skbPlatformVersion="1.4.0">
+            
+            <!-- LNB -->
+            <paymodel modelid="300-2039-001"  revealId="2039" revealVersionId="2039"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Snowman Raceway : 300-2039-001"
+                      hibethold="26.76" lobethold="26.76"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+            <paymodelConfig modelid="300-2039-001"   clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2039-001"   clienttype="HTML" configcode="PHLP"/>
+            <!-- LNZ -->
+            <paymodel modelid="300-2039-002"  revealId="2039" revealVersionId="2039"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Snowman Raceway : 300-2039-002"
+                      hibethold="26.76" lobethold="26.76"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+            <paymodelConfig modelid="300-2039-002"   clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2039-002"   clienttype="HTML" configcode="PHLP"/>
+
+            <denom currencycode="EUR" amount="0.01"/>
+            <denom currencycode="GBP" amount="0.01"/>
+            <denom currencycode="NZD" amount="0.01,0.02"/>
+            <denom currencycode="USD" amount="0.01,0.02"/>
+
+            <!--<denom currencycode="ARS" amount="0.01,0.05"/>
+            <denom currencycode="AUD" amount="0.01,0.02"/>
+            <denom currencycode="BGN" amount="0.01,0.02"/>
+            <denom currencycode="BRL" amount="0.01,0.03"/>
+            <denom currencycode="CAD" amount="0.01,0.02"/>
+            <denom currencycode="CHF" amount="0.01,0.02"/>
+            <denom currencycode="CNY" amount="0.05,0.10"/>
+            <denom currencycode="CZK" amount="0.10,0.30"/>
+            <denom currencycode="DKK" amount="0.05,0.10"/>
+            <denom currencycode="EUR" amount="0.01"/>
+            <denom currencycode="FPY" amount="0.01,1.00"/>
+            <denom currencycode="FUN" amount="1.00,10.00"/>
+            <denom currencycode="GBP" amount="0.01"/>
+            <denom currencycode="HKD" amount="0.05,0.10"/>
+            <denom currencycode="HUF" amount="1.00,100.00"/>
+            <denom currencycode="INR" amount="0.50"/>
+            <denom currencycode="ISK" amount="1.00,100.00"/>
+            <denom currencycode="JPY" amount="1.00,100.00"/>
+            <denom currencycode="MXN" amount="0.10,0.20"/>
+            <denom currencycode="MYR" amount="0.01,0.05"/>
+            <denom currencycode="NOK" amount="0.05,0.10"/>
+            <denom currencycode="NZD" amount="0.01,0.02"/>
+            <denom currencycode="PLN" amount="0.05"/>
+            <denom currencycode="RMB" amount="0.05,0.10"/>
+            <denom currencycode="RON" amount="0.04,0.05"/>
+            <denom currencycode="SEK" amount="0.10,1.00"/>
+            <denom currencycode="SGD" amount="0.01,0.03"/>
+            <denom currencycode="THB" amount="0.10,0.50"/>
+            <denom currencycode="TWD" amount="0.10,0.50"/>
+            <denom currencycode="UAH" amount="0.10,0.20"/>
+            <denom currencycode="USD" amount="0.01,0.02"/>
+            <denom currencycode="ZAR" amount="0.05,0.10"/>-->
+        </game>
+    </family>
